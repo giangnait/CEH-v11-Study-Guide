@@ -6,27 +6,29 @@
 ## 📢 About this repo
 
 * **Unofficial Study Guide for CEH v11 exam, forked from:** <small>https://github.com/scottymcraig/CEHv11StudyGuide</small> 
-    * **Changes:**
-        - [+] Modules added
+
+forked from: https://github.com/Samsar4/CEH-v10-Study-Guide
+    * **Targetted Changes:**
+        - [+] Modules update
         - [+] Increased information details in all modules
         - [+] Practical labs added
-        - [+] Content segregation  
+        - [+] Content segregation
 
 * The objective of this repo is to clarify all topics presented on [CEH v11](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/) (ANSI) exam.
 
----
+LATEST UPDATED ON APRIL 4TH 2021 - 00:58 IST
 
-### ⚡︎ **This study guide have some [practical labs](https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/README.md) to test your knowledge and learn by doing.**
+### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing.**
 ---
 
 * ⚠️ **Important note about the exam:**
-    - **CEH v11** will retire by the end of 2020.
-    - **CEH v11** will be introduced in january/2021 covering new topics like:
+
+    - **CEH v11** will be covering new topics like:
         - *Hacking challenges, Emerging attack vectors(Web API, Web Shell etc), Cointainers, Reverse engineering (Static and Dynamic analysis), WPA3, Parrot OS and more.*[[+]](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 # Index
 
-**All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/Samsar4/CEH-v11-Study-Guide/blob/master/modules/All-Modules.md) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/Samsar4/CEH-v11-Study-Guide/blob/master/modules/All-Modules.html)
+**All Modules in one single file**: [![markdown](https://img.shields.io/badge/Markdown-.md-silver.svg)](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/All-Modules.md) [![HTML](https://img.shields.io/badge/HTML-.html-blue.svg)](https://github.com/Samsar4/CEH-v11-Study-Guide/blob/master/modules/All-Modules.html)
 
 
 
