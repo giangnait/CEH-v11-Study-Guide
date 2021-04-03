@@ -9,13 +9,17 @@ The whole principle is to avoid **Theft, Tampering and Disruption** of the syste
 
 - **Confidentiality**
 Keeping systems and data from being accessed, seen, read to anyone who is not authorized to do so.
+Information is accessible only to the autorized personnel.
 
 - **Integrity**
-Protect the data from modification or deletion by unauthorized parties, and ensuring that when authorized people make changes that shouldn't have been made the damage can be undone.
+TRUSTWORTHINESS OF DATA OR RESOUCES: Protect the data from modification or deletion by unauthorized parties, and ensuring that when authorized people make changes that shouldn't have been made the damage can be undone.
 
 - **Availability**
-Systems, access channels, and authentication mechanisms must all be working properly for the information they provide and protect to be available when needed.
+ACCESSIBLE WHEN REQUIRED BY AUTHORIZED USERS: Systems, access channels, and authentication mechanisms must all be working properly for the information they provide and protect to be available when needed.
 
+- **Authenticity**
+Refers to the characterstic of a communication, document, or any data that ensures the quality of being geniune.
+	
 **Note:** *In addition, other properties, such as authenticity, accountability, non-repudiation and reliability can also be involved. (ISO/IEC 27000:2009)*
 
 - **Auditing & Accountability**
