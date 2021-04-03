@@ -1,6 +1,8 @@
 <p align="center">
-<img width="100%" src="https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/55c29341ff0f4bedab9817654b06cde10e2a4ed2/CEH-banner.jpg" />
+<img width="100%" src="https://user-images.githubusercontent.com/11171288/113489521-63093680-94e2-11eb-9257-ca820f200e10.png" />
 </p>
+
+
 
 
 ## 📢 About this repo
